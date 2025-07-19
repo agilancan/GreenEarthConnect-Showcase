@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/Picture1.jpg" width="600"/></p>
+<p align="center"><img src="assets/Picture1.jpg" width="200"/></p>
 
 # Greenearth Connect – Showcase 🌱🌍
 
@@ -16,9 +16,13 @@ _A curated portfolio of my contributions to the Greenearth Connect Capstone proj
 
 Users can input their personal health and activity preferences and receive:
 - Air Quality Index (AQI) forecasts using **XGBoost** and **LSTM**
+  <p align="center"><img src="assets/Picture1.jpg" width="200"/></p>
 - Tailored activity recommendations using **Random Forest Classifier**
+  <p align="center"><img src="assets/Picture1.jpg" width="200"/></p>
 - News and safety updates powered by **HuggingFace NLP pipelines**
+  <p align="center"><img src="assets/Picture1.jpg" width="200"/></p>
 - Map-based AQI visualizations for real-time and historical data
+  <p align="center"><img src="assets/Picture1.jpg" width="200"/></p>
 
 ---
 
@@ -32,12 +36,14 @@ As part of a five-member capstone team, I focused on:
   - `LSTM` for time-series AQI prediction
   - Data sourced from [EPA’s Outdoor Air Quality Dataset](https://www.epa.gov/outdoor-air-quality-data/download-daily-data)
 - Performed hyperparameter tuning and validation using **RMSE**, achieving improved prediction accuracy (RMSE ↓ from 9.96 to 7.03)
+  <p align="center"><img src="assets/Picture1.jpg" width="200"/></p>
 
 ### 🧘‍♂️ Activity Recommender
 - Designed and implemented a **Random Forest Classifier** that recommends activities based on:
   - Health status, environmental conditions, age, preferences, etc.
 - Engineered a mock dataset and generated **25+ test cases** for model validation
 - Tuned with `GridSearchCV` and achieved **100% accuracy** (note: overfitting addressed in future scope)
+  <p align="center"><img src="assets/Picture1.jpg" width="200"/></p>
 
 ### 📰 Newsfeed AI
 - Built a news summarization module using:
