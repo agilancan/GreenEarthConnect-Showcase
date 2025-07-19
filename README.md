@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/Picture1.jpg" width="600"/></p>
+
 # Greenearth Connect – Showcase 🌱🌍
 
 **AI-powered platform for personalized outdoor safety and air quality guidance.**  
