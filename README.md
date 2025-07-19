@@ -132,11 +132,6 @@ As part of a five-member capstone team, I focused on:
 
 > 🔗 Live Website: [greenearthconnect-2.onrender.com](https://greenearthconnect-2.onrender.com)
 
-![AQI Forecast Screenshot](assets/aqi-dashboard.png)
-![Activity Recommendation Screenshot](assets/activity-recommend.png)
-
-_(More screenshots and video demo coming soon)_
-
 ---
 
 ## 📣 License & Disclaimer
