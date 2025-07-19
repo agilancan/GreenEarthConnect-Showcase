@@ -43,7 +43,7 @@ As part of a five-member capstone team, I focused on:
   - Health status, environmental conditions, age, preferences, etc.
 - Engineered a mock dataset and generated **25+ test cases** for model validation
 - Tuned with `GridSearchCV` and achieved **100% accuracy** (note: overfitting addressed in future scope)
-  <p align="center"><img src="assets/r3.PNG" width="600"/><img src="assets/EnvironmentalFactors.PNG" width="600"/></p>
+  <p align="center"><img src="assets/ActivityEngine.PNG" width="600"/><img src="assets/EnvironmentalFactors.PNG" width="600"/></p>
 
 ### 📰 Newsfeed AI
 - Built a news summarization module using:
